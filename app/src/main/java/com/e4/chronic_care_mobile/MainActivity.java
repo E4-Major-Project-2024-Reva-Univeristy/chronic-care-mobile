@@ -9,7 +9,6 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -22,3 +21,14 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+
+// SQL Lite Database Integration
+// Class with data memebers
+// class Streak {
+// int currentStreak
+// func IncrementStreak()
+// func CheckTodays Streak()
+// }
+
+// 1. Streak Manage
+// 2. Tablet Remainder
